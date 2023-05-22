@@ -2,7 +2,7 @@
 # The BCG Data Science &amp; Advanced Analytics Virtual Experience Program
 
 
-BCG GAMMA is transforming the businesses of today through data science and advanced analytics initiatives and our goal is to help companies generate competitive advantage through these initiatives. .
+BCG GAMMA is transforming the businesses of today through data science and advanced analytics initiatives and the company's goal is to help companies generate competitive advantage through these initiatives. .
 
 ## Tasks
 
